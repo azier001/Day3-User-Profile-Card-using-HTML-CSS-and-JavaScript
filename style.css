@@ -41,6 +41,10 @@ body {
   margin-left: 10px;
 }
 
+.cart-top-navigation li a {
+  color: white;
+}
+
 .user-image {
   position: relative;
   width: 100px;
